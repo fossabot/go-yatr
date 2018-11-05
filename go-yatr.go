@@ -1,4 +1,4 @@
-package go_yatr
+package yatr
 
 import (
 	"encoding/json"

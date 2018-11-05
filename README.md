@@ -10,7 +10,7 @@ package main
 
 import (
     "fmt"
-    yatr "github.com/FlameInTheDark/go-yatr"
+    "github.com/FlameInTheDark/go-yatr"
     )
 
 func main() {
