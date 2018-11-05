@@ -14,7 +14,7 @@ import (
     )
 
 func main() {
-    c := go-yatr.NewContext("yandex-translation-api-key")
+    c := yatr.NewContext("yandex-translation-api-key")
     r, err := c.Translate("en", "ru", "Hello, World!")
     if err != nil {
         fmt.Println(err.Error())
