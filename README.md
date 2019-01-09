@@ -1,4 +1,6 @@
 # go-yatr - Yandex translate
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FFlameInTheDark%2Fgo-yatr.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FFlameInTheDark%2Fgo-yatr?ref=badge_shield)
+
 Yandex Translate API on Golang
 
 ## Usage
@@ -23,3 +25,7 @@ func main() {
     fmt.Println(r) // Привет, Мир!
 }
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FFlameInTheDark%2Fgo-yatr.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FFlameInTheDark%2Fgo-yatr?ref=badge_large)
